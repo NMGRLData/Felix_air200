@@ -1,8 +1,8 @@
 {
     "Ar36": {
-        "error": 0.0005736485126271673,
+        "error": 7.580606006854888e-05,
         "error_type": "",
-        "fit": "Average_SD",
+        "fit": "Bracketing Interpolate",
         "references": [
             {
                 "exclude": "ok",
@@ -41,12 +41,12 @@
             }
         ],
         "reviewed": true,
-        "value": 0.0021069621432434297
+        "value": 0.0021850847568682043
     },
     "Ar37": {
-        "error": 0.006281951539648247,
+        "error": 0.008906364325630958,
         "error_type": "",
-        "fit": "Weighted Mean_SEM",
+        "fit": "Weighted Mean_SE but if MSWD>1 use SE * sqrt(MSWD)",
         "references": [
             {
                 "exclude": "ok",
@@ -85,12 +85,12 @@
             }
         ],
         "reviewed": true,
-        "value": 0.01818178561535745
+        "value": 0.01818178561535744
     },
     "Ar38": {
-        "error": 0.0029888019990790163,
+        "error": 0.0032240335536928536,
         "error_type": "",
-        "fit": "Weighted Mean_SEM",
+        "fit": "Weighted Mean_SE but if MSWD>1 use SE * sqrt(MSWD)",
         "references": [
             {
                 "exclude": "ok",
@@ -129,12 +129,12 @@
             }
         ],
         "reviewed": true,
-        "value": 0.003917193404639037
+        "value": 0.003917193404639033
     },
     "Ar39": {
-        "error": 0.006046638990785167,
+        "error": 0.0062648683783714625,
         "error_type": "",
-        "fit": "Weighted Mean_SEM",
+        "fit": "Weighted Mean_SE but if MSWD>1 use SE * sqrt(MSWD)",
         "references": [
             {
                 "exclude": "ok",
@@ -173,12 +173,12 @@
             }
         ],
         "reviewed": true,
-        "value": 0.026673113598274636
+        "value": 0.026673113598274647
     },
     "Ar40": {
-        "error": 0.17214144761496414,
+        "error": 0.02277967626586881,
         "error_type": "",
-        "fit": "Average_SD",
+        "fit": "Bracketing Interpolate",
         "references": [
             {
                 "exclude": "ok",
@@ -217,6 +217,6 @@
             }
         ],
         "reviewed": true,
-        "value": 0.20043791534938366
+        "value": 0.14320148921902917
     }
 }
